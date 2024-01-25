@@ -1,0 +1,9 @@
+.info_card{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    .card_title{
+        display: flex;
+    }
+}

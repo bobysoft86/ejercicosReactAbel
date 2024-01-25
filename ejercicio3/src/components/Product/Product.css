@@ -1,0 +1,7 @@
+.imagen{
+    width: 30%;
+}
+.colorsBox{
+    display:flex;
+    gap: 10px;
+}
